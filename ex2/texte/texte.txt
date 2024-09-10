@@ -1,0 +1,23 @@
+Design Patterns
+• Identifient des solutions récurrentes et bonnes à des problèmes
+récurrents en informatique.
+• Un développeur compétent se doit d’être capable d’identifier ces problèmes.
+• Un développeur compétent se doit d’être capable d’implémenter la solution
+correspondante.
+• Un développeur compétent se doit d’être capable de communiquer aves ses
+pairs en utilisant le vocabulaire des patterns.
+
+Patterns
+• Créationnel (instancier les objets)
+• Builder
+• Abstract Factory
+• Factory Method
+• Singleton
+• Prototype
+• Structurel (composition des classes
+et objets)
+• Adapter
+• Facade
+• Composite
+• Decorator
+• Flyweight

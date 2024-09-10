@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex3.iml" filepath="$PROJECT_DIR$/ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex3B/ex3B.iml" filepath="$PROJECT_DIR$/ex3B/ex3B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex3C/ex3C.iml" filepath="$PROJECT_DIR$/ex3C/ex3C.iml" />
+    </modules>
+  </component>
+</project>
